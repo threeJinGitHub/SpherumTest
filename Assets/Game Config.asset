@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1631daf60f484d9eafe3eb25310f1203, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  squares:
+  - {fileID: -1698475767668867510, guid: c89386cb0d7434e5d9f4ad5d9ab9374f, type: 3}
+  - {fileID: 5504728871136891914, guid: f95407981d926479885ad96a38f3c7d5, type: 3}
+  secondSceneName: SecondScene
+  ps2Prefab: {fileID: 1687513186896298909, guid: e713bc3ad40e0425989c41331779935a, type: 3}
+  psCount: 1010
+  psShellRadius: 3
